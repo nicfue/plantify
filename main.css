@@ -1,3 +1,12 @@
+html{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  padding: auto;
+  font: 16px "Inconsolata-dz", monospace;
+  letter-spacing: 0.1em;
+}
+
 body{ margin:0px 0px; color: #316B60; }
 
 .logo {   /*Klassen logo används på samtliga sidor*/
@@ -40,7 +49,7 @@ h2 {
 }
 
 p {
-  font-family: lato regular, helvetica;
+  font-family: roboto, helvetica;
   font-size: 1.2rem;
   text-align: center;
 
